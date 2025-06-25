@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "three": "^0.177.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "name": "21-javascript-projects",
+  "version": "1.0.0",
+  "description": "Smooth Javascript simple projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndilokelwa/21-Javascript-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndilokelwa/21-Javascript-Projects/issues"
+  },
+  "homepage": "https://github.com/ndilokelwa/21-Javascript-Projects#readme"
+}
